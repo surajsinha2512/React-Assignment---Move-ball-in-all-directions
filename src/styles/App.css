@@ -46,3 +46,15 @@ body html .root {
     width: 50px;
     border-radius: 25px;
 }
+.start{
+  font-family: "Fredoka One", cursive;
+  
+  background-color: #202124;
+color: white;
+height: 30px;
+font-size: 15px;
+border-radius:8px;
+border: none;
+width: 100px;
+
+}
